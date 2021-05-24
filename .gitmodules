@@ -1,0 +1,3 @@
+[submodule "src/components/slickCV"]
+	path = src/components/slickCV
+	url = https://github.com/PremKolar/slickCV.git
